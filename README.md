@@ -1,4 +1,6 @@
 ### Hi there 👋
+I'm Abdullah Houso! I'm currently studying Computer Science - Data Science Track at <a href="https://www.mu.edu.sa">Majmaah University</a>.
+I'm Interested in web and application development.
 
 <!--
 **AbdullahHouso/AbdullahHouso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
